@@ -228,9 +228,136 @@ body{
 }
 .their_need02{
     width: 450px;
+    margin-left: 130px;
    
 }
 .their_need02 img{
+    width: 600px;
    border-radius: 15px;
    border: 5px solid   #121212; 
+}
+
+/* depend start */
+#depend{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.depend_01 h2{
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.depend_01 p{
+    padding-bottom: 50px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.depend_01{
+    width: 500px;
+    float: left;
+}
+
+.depend_02 {
+    width: 500px;
+    float: left;
+    margin-left: 170px;
+}
+
+.depend_02 img{
+    width: 460px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+.today_button_2 a{
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 5%;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    background: #090a27;
+}
+.today_button_02 {
+    margin-top: 50px;
+
+}
+
+/* get */
+
+#get_part{
+    padding-top: 80px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.get_text h2{
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.get_text p{
+    padding-bottom: 50px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+}
+
+.get_email{
+    margin: 0 auto;
+    width: 800px;
+    height: 200px;
+    background: #fce7ad;
+}
+
+
+.email_dec{
+    margin-top: 50px;
+    width: 270px;
+    height: 40px;
+    border-radius: 5%;
+    margin-bottom: 50px;
+}
+
+
+.subscriber {
+    margin-top: 50px;
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 5%;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    background: #090a27;
+}
+
+#footer{
+    background: #0B0D17;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+
+#footer h4{
+    padding-top: 50px;
+    font-size: 20px;
+    color: #edf1f1;
+}
+#footer p{
+    font-size: 15px;
+    color: #edf1f1;
 }
