@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+.max_width{
+    width:100%;
+    margin: 0;
+}
+.min_width{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/* banner part */
+
+#banner{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url(../image/banner03.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner_text h1{
+    font-size: 65px;
+    color: #FFFFFF;
+    font-weight: 700;
+   
+    font-family: 'Roboto', sans-serif;
+
+}
+.banner_text p{
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 30px;
+}
+
+.banner_text a{
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 5%;
+    color: #FFFFFF;
+    margin-top: 20px;
+    background: #090a27;
+}
